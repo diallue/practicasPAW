@@ -1,0 +1,6 @@
+ docs/.vitepress/dist 
+ docs/.vitepress/cache
+/docs/.vitepress/cache
+docs/.vitepress/config.mts.timestamp*.mjs
+/node_modules
+/public

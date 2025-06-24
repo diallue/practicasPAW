@@ -1,1 +1,1 @@
-# practicasPAW
+# Prácticas
